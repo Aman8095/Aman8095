@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Aman Bakshi 
-- 👀 I’m interested in Making TKINTER GUI's
-- 🌱 I’m currently learning something new in python
+- 👋 Hi, I’m @Aman Bakshi
+- 👀 Currently I am a student and making som Tkinter GUI's , if you like them then please comment on it.
+- 🌱 And alos give me some ideas , that which type of GUI will I make for you.
+- 🌱 
 
 
 <!---
